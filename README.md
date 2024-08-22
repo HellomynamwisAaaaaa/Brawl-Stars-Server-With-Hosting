@@ -77,5 +77,3 @@ have something to ask? my discord is: tubayicokseviyom
 
 My version:
 https://www.mediafire.com/file/6mnn07raovmp7kk/Classic_Brawl_26.184.apk/file
-
-https://media.discordapp.net/attachments/1018493194813575249/1276084116248592414/Screenshot_20240822_102818_Chrome.jpg?ex=66c83d71&is=66c6ebf1&hm=c3e7c568840bd8efd3dfe0418c0cbcc7e8ab2cb9e32476559fa8444ce2547684&
