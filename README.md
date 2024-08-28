@@ -1,3 +1,8 @@
+All the free hosting's that i know:
+Silly Development: https://sillydevelopment.co.uk
+Bot Hosting: https://bot-hosting.net
+PylexNodes: https://pylexnodes.xyz
+
 # Brawl-Stars-Server-With-Hosting
 For me and everyone idk
 I heard the hosting is bad but no problem
