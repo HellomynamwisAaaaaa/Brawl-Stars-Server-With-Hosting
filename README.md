@@ -1,6 +1,6 @@
 # All the free hosting's that i know:
  # Silly Development: https://sillydevelopment.co.uk (I Prefer It!)
- ## Bot Hosting: https://bot-hosting.net
+ ## Bot Hosting: https://bot-hosting.net (Credit system, but not getting suspended everytime if you have enough coins!)
  ### PylexNodes: https://pylexnodes.xyz (I Prefer It!)
 
 # Brawl-Stars-Server-With-Hosting
@@ -54,6 +54,12 @@ now delete that bot.py and change it to "main.py"
 and bottom of that, you will see additional python packages
 type on that box this:
 colorama tinydb
+
+## Or if you use sql server do this:
+### colorama tinydb mongo pymongo schedule
+
+## This installs the other packages
+
 and leave that page
 
 # 5 Putting the port on apk
@@ -68,6 +74,10 @@ and click arm something like that
 go to the mod.config thing like click on the one who says config idk
 put this ln redirectHost:
 65.108.77.37
+
+## If you not saw the config thing, you probably downloaded the not self hosted version
+
+## NOTE! No, you dont gonna put "65.108.77.37" if you using silly development (pylexnodes got their own ip thing)
 
 and put your port that u copied earlier on redirectPort
 save the file
