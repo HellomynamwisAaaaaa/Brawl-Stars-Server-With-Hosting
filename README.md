@@ -1,7 +1,7 @@
 # All the free hosting's that i know:
- # Silly Development: https://sillydevelopment.co.uk
+ # Silly Development: https://sillydevelopment.co.uk (I Prefer It!)
  ## Bot Hosting: https://bot-hosting.net
- ### PylexNodes: https://pylexnodes.xyz
+ ### PylexNodes: https://pylexnodes.xyz (I Prefer It!)
 
 # Brawl-Stars-Server-With-Hosting
 For me and everyone idk
@@ -13,11 +13,10 @@ https://t.me/AllModsBrawlStars
 Get the zip and apk from here im too lazy to explain
 
 # 2. Getting the hosting
-The hosting link is: https://bot-hosting.net
-or use this(i dont prefer it): https://sillydevelopment.co.uk
+look up for the hostings
 
 # 2.1 Creating a server
-when u on the site, click to the 3 lines and click earn credits and get 10 credits(its free)
+when u on the site, click to the 3 lines and click earn credits and get 10 credits(its free + this is for bot hosting site, if u selected the other 2 websites figure it out yourself)
 
 # 2.2 Opening the server
 To open the server, click on 3 lines again and click "Create Server"
@@ -25,6 +24,7 @@ on there there would be name thing do it whatever you want
 and for the server languege do it python
 after that click on "View on control panel"
 and wait the "running imstaller" text go gone
+(For bot hosting site again)
 
 # 3 File Replacement
 Now click on files
@@ -78,7 +78,8 @@ and here u go
 
 fully functional hosted brawl stars server wow lol
 
-have something to ask? my discord is: batus_zz
 
-My version:
-https://www.mediafire.com/file/6mnn07raovmp7kk/Classic_Brawl_26.184.apk/file
+you can upgrade ram and disk to put somethings btw
+
+ ## have something to ask? my discord is: batus_zz
+
