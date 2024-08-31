@@ -4,7 +4,7 @@
  ### PylexNodes: https://pylexnodes.xyz (I Prefer It!)
 
 # Brawl-Stars-Server-With-Hosting
-In this tutorial i showed u how to create your own private brawl stars server in 6 steps, i hope that helped!
+In this tutorial i showed u how to create your own private brawl stars server in 7 steps, i hope that helped!
 
 What u need for this page: MT Manager(for apk extract), zip maker(can be done by ZArchiver), Hosting(gonna give it later)
 # 1. Getting the zip and apk
