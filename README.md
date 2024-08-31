@@ -1,7 +1,7 @@
-All the free hosting's that i know:
-Silly Development: https://sillydevelopment.co.uk
-Bot Hosting: https://bot-hosting.net
-PylexNodes: https://pylexnodes.xyz
+# All the free hosting's that i know:
+ # Silly Development: https://sillydevelopment.co.uk
+ ## Bot Hosting: https://bot-hosting.net
+ ### PylexNodes: https://pylexnodes.xyz
 
 # Brawl-Stars-Server-With-Hosting
 For me and everyone idk
@@ -78,7 +78,7 @@ and here u go
 
 fully functional hosted brawl stars server wow lol
 
-have something to ask? my discord is: tubayicokseviyom
+have something to ask? my discord is: batus_zz
 
 My version:
 https://www.mediafire.com/file/6mnn07raovmp7kk/Classic_Brawl_26.184.apk/file
