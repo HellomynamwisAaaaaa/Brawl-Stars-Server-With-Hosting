@@ -1,7 +1,7 @@
 # All the free hosting's that i know:
  # Silly Development: https://sillydevelopment.co.uk (I Prefer It!)
  ## Bot Hosting: https://bot-hosting.net (Credit system, but not getting suspended everytime if you have enough coins!)
- ### PylexNodes: https://pylexnodes.xyz (I Prefer It!)
+ ### PylexNodes: https://pylexnodes.net (I Prefer It!)
 
 # Brawl-Stars-Server-With-Hosting
 In this tutorial i showed u how to create your own private brawl stars server in 7 steps, i hope that helped!
