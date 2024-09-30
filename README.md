@@ -1,3 +1,9 @@
+# Tüm Türklere Sesleniyorum!
+Bazı kişilere bu github sayfasını veriyorum ama hiç bir şey anlamıyolar(İngilizce yazdığım için)
+O yüzden vereceğim bir çeviri sitesi linkinden bu yazıları kopyalayıp çeviriye yapıştırın
+Link: https://translate.google.com/?hl=tr&sl=auto&tl=tr&op=translate
+
+
 # All the free hosting's that i know:
  # Silly Development: https://sillydevelopment.co.uk (I Prefer It!)
  ## Bot Hosting: https://bot-hosting.net (Credit system, but not getting suspended everytime if you have enough coins!)
