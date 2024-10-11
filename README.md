@@ -86,9 +86,9 @@ and in redirectPort, put your own port
 
 ## If you do not have redirectPort, its probably because you can only host it on pyroid 3
 
-## If you not saw the config thing, you probably downloaded the not self hosted version
+## If you not saw the config thing, you probably downloaded the self hosted version
 
-## NOTE! No, you dont gonna put "65.108.77.37" if you using silly development (pylexnodes got their own ip thing)
+## NOTE! No, you dont gonna put "65.108.77.37" if you using silly development (pylexnodes got their own ip thing too + i guess pylexnodes doesnt works)
 
 # 7.1.Other Node IPs
 Nodes IPs & Informations
